@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    font-family:Tahoma;   
+}
+.header{
+    margin: 20px 5px 3px 5px;
+}
+.com{
+    color: RGB(76,175,80);
+}
+.title{
+    text-decoration: none;
+    color: #555555;
+    float: left;
+    font-size: 40px;
+}
+.title:hover{
+    color: RGB(76,175,80);
+}
+.word{
+    letter-spacing: 5px;
+    display: inline;
+    float: right;
+    line-height: 60px;
+}
+.navbar{
+    background: #5F5F5E;
+    height:25px;
+    width: 100%;
+    clear: both;
+    color:#f1f1f1;
+    word-spacing: 5px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.navphoto{
+    width: auto;
+    height: 20px;
+}
+.links{
+    color: #f1f1f1;
+    padding: 10px;
+    text-decoration: none;
+}
+ul.contaner{
+    padding: 10px;
+    margin: 0px;
+    margin-top: 10px;
+    background: #5F5F5E;
+}
+
+
+.test{
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
+}
+a.links:hover{
+    background: #000;
+}
+.sidebar {
+    /*margin-top:10px;*/
+    margin-right: 10PX;
+    clear: both;
+    display: inline;
+    width:16.25%;<!--220-->
+    height:auto;
+    background:#e4e4e4;
+    float:left;
+    text-decoration: none;
+    overflow-y: scroll;
+} 
+h4{
+    padding-bottom: 10px;
+    padding-top:20px;
+    padding-left: 20px;
+}
+.sidebar a:visited{
+    color: #000;
+}
+.sidebar ul{
+    padding: 0px;
+}
+.sidebar li a , .sidebar li{
+    list-style-type: none;
+    text-decoration: none;
+    padding: 2px 1px 1px 16px;
+}
+.sidebar li a:visited{
+    color:#000;
+}
+div ul li:hover{
+    background-color: #acacac;
+}
+.bodybar{
+    margin-top :10px;
+    width: 80%;
+    padding: 0px;
+}
+.activebar{
+    background: #4CAF50;
+}
+.buttuns{
+    
+}
+.buttunhome{
+    font-size: 17px;
+    border:1px solid #ccc;
+    text-decoration: none;
+    float:left;
+    display: inline;
+    padding: 8px 16px;
+}
+.butunnext{
+    font-size: 17px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    float:right;
+    display: inline;
+    padding:8px 16px;
+    background-color: #4CAF50;
+    color:#fff;
+}
+.buttuns{
+    width: 85%;
+    margin-bottom: 20px;
+}
+.ads{
+     float:right;
+    margin: 0px 20px 10px 10px;
+}
+.body1{
+    margin-top: 10px;
+    padding-left:16.25%;
+    width: 80%;
+}
+.def{
+    background-color: #ddffdd;
+    border-left: 6px solid #4CAF50;
+    margin:50px 10px 20px 10px;
+    padding:15px;
+    line-height: 40px;
+    width: 81%;
+}
+.hrwidth{
+    width:84%;
+    margin-bottom: 10px;
+}
+.example{
+    background-color:#f1f1f1;
+    margin:0px 0px 10px 10px;
+    padding: 20px;
+    padding-bottom: 60px;
+    width: 81%;
+}
+.time{
+    background-color: #fff;
+    padding: 10px 0px 20px 10px;
+    line-height: 50px;
+}
+.remember{
+    background-color: #ffffcc;
+    border-left: 6px solid #ffeb3b;
+    margin:20px 0px 20px 10px;
+    width: 84.25%;
+    line-height: 40px;
+}
+.butunex ,.butunex:visited{
+    background-color: #616161;
+    color: #fff;
+    padding:10px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.butunex:hover{
+    background-color: RGB(204,204,204);
+    color:#000;
+}
+.strong{
+    font-weight: bold;
+}
+.certifcate{
+    width:80%;
+    float:left;
+    margin:20px 10px;
+    line-height: 40px;
+}
+.greenlink:hover{
+    color:#4CAF50;
+}
+.greenlink:visited{
+    color:#000;
+}
+.photos{
+    margin:20px 220px;
+}
+.hrwidth2{
+    width:70%;
+    margin-left: 220px;
+    margin-bottom: 20px;
+}
+.links a{
+    text-decoration: none;
+    color:#000;
+    display: inline;
+    float: left;
+    word-spacing: 100px;
+    margin-left: 220px;
+    margin-bottom: 20px;
+}
+.links a:hover{
+    color:#4CAF50;
+    text-decoration: underline;
+}
+.tutorials a{
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+.tutorials a:hover{
+    color:#4CAF50;
+    text-decoration: underline;
+}
+.tutorials{
+    display: inline;
+    margin-left: 70px;
+    float: left;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.paragraph , .linkgreen:visited{
+    margin: 10px 220px;
+    text-align: center;
+    color: #000;
+    opacity: 0.60;
+    text-decoration: none;
+}
+.linkgreen:hover{
+    text-decoration: underline;
+    color: #4CAF50;
+}
